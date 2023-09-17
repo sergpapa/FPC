@@ -1,0 +1,61 @@
+/* ------------------- header */
+
+header {
+    background-color: #212121;
+    color: rgba(231, 231, 231, 0.5);
+    min-height: 120px;
+}
+
+nav a {
+    color: #e7e7e7;
+}
+
+a:hover {
+    color: #8f2424;
+    text-decoration: underline;
+}
+
+/* ------------------- footer */
+
+footer {
+    background-color: #212121;
+    color: rgba(231, 231, 231, 0.5);
+    min-height: 60px;
+    margin: 0;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.footer-text i {
+    margin-top: 20px;
+    color: rgba(231, 231, 231, 0.5)
+}
+
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50px;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #e7e7e7;
+    background: #9f9f9b;
+
+    transition: all 0.35s ease-in-out;
+    /* always put transition in the parent element */
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #8f2424;
+}
+
+#footer-details {
+    padding: 20px;
+}
