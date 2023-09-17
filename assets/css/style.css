@@ -1,4 +1,4 @@
-/* ------------------- header */
+/* ------------------------------------------------------------------- header */
 
 header {
     background-color: #212121;
@@ -15,7 +15,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* ------------------- footer */
+/* ------------------------------------------------------------------- footer */
 
 footer {
     background-color: #212121;
@@ -58,4 +58,19 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/* --------------------------------------------------------------- hero image */
+
+#hero-image {
+    object-fit: cover;
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 600px) {
+    #hero-image {
+        object-position: 70% center;
+    }
 }
