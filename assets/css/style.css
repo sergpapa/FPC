@@ -1,3 +1,9 @@
+/* ------------------------------------------------------------------- General */
+
+body {
+    background-color: #212121;
+}
+
 /* ------------------------------------------------------------------- header */
 
 header {
@@ -6,12 +12,12 @@ header {
     min-height: 120px;
 }
 
-nav a {
+#navbarNavDropdown .navbar-nav .nav-item .nav-item-color {
     color: #e7e7e7;
 }
 
-a:hover {
-    color: #8f2424;
+#navbarNavDropdown .navbar-nav .nav-item .nav-item-color:hover {
+    color: #DE7D48;
     text-decoration: underline;
 }
 
@@ -53,11 +59,15 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #8f2424;
+    background: #ab3a3a;
 }
 
 #footer-details {
     padding: 20px;
+}
+
+#footer-sub-details {
+    padding: 20px 20px 20px 0;
 }
 
 /* --------------------------------------------------------------- hero image */
@@ -73,4 +83,65 @@ footer {
     #hero-image {
         object-position: 70% center;
     }
+}
+
+/* --------------------------------------------------------------- Callout */
+
+.callout-section {
+    margin: 20px 0;
+}
+
+h3 {
+    margin: 0;
+    color: #e7e7e7
+}
+
+.callout {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.join-us {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    border: none;
+}
+
+.btn-light {
+    background-color: #DE7D48;
+    color: #212121;
+}
+
+.btn:hover {
+    background-color: #ab3a3a;
+}
+
+/* --------------------------------------------------------------- Reasons */
+
+.container-sm {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #9f9f9b;
+}
+
+.reasons-container {
+    border: 5px solid #DE7D48;
+    border-radius: 0.25rem;
+}
+
+.subheading-margins {
+    margin: 20px 0 30px 0;
+}
+
+.icons-styles {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 26px;
+}
+
+.reasons {
+    color: #212121;
 }
