@@ -226,6 +226,16 @@ h3 {
     color: #9f9f9b;
 }
 
+/* -------------------------------------------------------------------- Plans */
+
+.plans-card {
+    padding: 0 20px;
+}
+
+.plans-bg-color {
+    background-color: #e7e7e7;
+}
+
 /* ----------------------------------------------------- margins and Paddings */
 
 .subheading-margins {
