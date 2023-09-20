@@ -132,10 +132,6 @@ h3 {
     border-radius: 0.25rem;
 }
 
-.subheading-margins {
-    margin: 20px 0 30px 0;
-}
-
 .icons-styles {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -145,3 +141,33 @@ h3 {
 .reasons {
     color: #212121;
 }
+
+/* ------------------------------------------------------------ Video Seciton */
+
+.free-runners {
+    margin: 20px 0 30px 0;
+}
+
+/* ------------------------------------------------------------------ Reviews */
+
+.rating {
+    color: #e7e7e7;
+    margin: 0 0 30px 0;
+    font-weight: 300;
+}
+
+.review-text {
+    font-size: 16px;
+}
+
+/* ----------------------------------------------------- margins and Paddings */
+
+.subheading-margins {
+    margin: 20px 0 30px 0;
+}
+
+.text-margins {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
