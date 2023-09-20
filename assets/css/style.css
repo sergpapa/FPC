@@ -160,6 +160,72 @@ h3 {
     font-size: 16px;
 }
 
+/* ----------------------- Classes- CODE FROM W3SCHOOLS - amended to be round */
+
+.flip-card {
+    height: 200px;
+    width: 200px;
+    background-color: transparent;
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(33, 33, 33, 0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    /* Safari */
+    backface-visibility: hidden;
+}
+
+.flip-card-front {
+    background-color: transparent;
+    color: #9f9f9b;
+}
+
+.flip-card-back {
+    border-radius: 50%;
+    background-color: #9f9f9b;
+    color: #212121;
+    transform: rotateY(180deg);
+}
+
+.flip-card-back-text {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.flip-card-back-text hr,p,strong {
+    margin: 10px;
+}
+
+.flip-card-back-text hr {
+    border: none;
+    height: 2px;
+    background: #212121;
+    width: 50%;
+    margin: auto;
+}
+
+.classes-text-color {
+    color: #9f9f9b;
+}
+
 /* ----------------------------------------------------- margins and Paddings */
 
 .subheading-margins {
@@ -170,4 +236,3 @@ h3 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
