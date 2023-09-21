@@ -52,6 +52,64 @@
     </header>
     <!-- Header End-->
 
+    <!-- Contact form Start-->
+    <section class="container-fluid contact-form bg-space">
+        <!-- Hero Image Start-->
+        <div class="row">
+            <div class="col-12 img-fluid p-0">
+                <img id="hero-image" src="assets/images/cinematic.jpg" alt="hero-image" />
+            </div>
+        <!-- Hero Image End-->
+            <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
+                <div class="row text-margins text-center">
+                    <div class="col">
+                        <h2>Contact Us! <i class="fas fa-address-book"></i> </h2>
+                        <br>
+                    </div>
+                </div>
+                <div class="row text-margins">
+                    <div class="col-4">
+                        <label for="name">Name:</label>
+                    </div>
+                    <div class="col-8">
+                        <input class="text-input" id="name" type="text" name="name" required />
+                    </div>
+                </div>
+                <div class="row text-margins">
+                    <div class="col-4">
+                        <label for="email">Email Address:</label>
+                    </div>
+                    <div class="col-8">
+                        <input class="text-input" id="email" type="email" name="email_address" required />
+                    </div>
+                </div>
+                <div class="row text-margins">
+                    <div class="col-4">
+                        <label for="ph_number">Phone:</label>
+                    </div>
+                    <div class="col-8">
+                        <input class="text-input" id="ph_number" type="number" name="phone_number" required />
+                    </div>
+                </div>
+                <div class="row text-margins">
+                    <div class="col">
+                        <label for="more_details">More Details:</label>
+                        <br>
+                        <textarea class="textarea-input" id="more_details" name="more_details" rows="4" cols="50"
+                        placeholder="Let us know of anything else you feel is important to know."></textarea>
+                    </div>
+                </div>
+                <div class="row text-margins text-center">
+                    <div class="col">
+                        <button type="submit" class="btn btn-light contact-button">
+                            Submit!
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+    <!-- Contact form End-->
     
     <!-- Footer Start-->
     <footer class="container-fluid">
