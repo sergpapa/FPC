@@ -252,6 +252,29 @@ h3 {
     color: #e7e7e7;
 }
 
+/* ------------------------------------------------------------------ Gallery */
+
+.photo-grid {
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.photo-grid img {
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .photo-grid {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .photo-grid {
+        column-count: 2;
+    }
+}
 
 /* ----------------------------------------------------- margins and Paddings */
 
