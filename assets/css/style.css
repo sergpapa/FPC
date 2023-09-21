@@ -229,12 +229,29 @@ h3 {
 /* -------------------------------------------------------------------- Plans */
 
 .plans-card {
-    padding: 0 20px;
+    padding: 0px 20px;
+}
+
+.sub-card {
+    padding: 50px;
 }
 
 .plans-bg-color {
-    background-color: #e7e7e7;
+    background-color: #212121;
 }
+
+.plans-bg-color:hover {
+    background-color: rgba(159, 159, 155, 0.2);
+}
+
+.plan-border {
+    border: 3px solid #DE7D48;
+}
+
+.plans-text-color {
+    color: #e7e7e7;
+}
+
 
 /* ----------------------------------------------------- margins and Paddings */
 
@@ -246,3 +263,4 @@ h3 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
