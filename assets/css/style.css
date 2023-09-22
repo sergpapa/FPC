@@ -91,7 +91,7 @@ footer {
     margin: 20px 0;
 }
 
-h3 {
+.callout-section h3 {
     margin: 0;
     color: #e7e7e7
 }
@@ -335,6 +335,38 @@ h3 {
 @media screen and (max-width: 576px) {
     .signup-form {
             width: 100%;
+    }
+}
+
+/* ----------------------------------------------------------- Contact Info   */
+
+.contact-info-section {
+    max-width:80%;
+    border: 5px solid rgba(143, 36, 36, 0.8);
+    border-radius: 0.25rem;
+    margin-bottom: 20px;
+    background-color: #9f9f9b;
+}
+
+.contact-info-section h3 {
+    margin: 0;
+}
+
+.contact-info {
+    margin-bottom: 30px;
+}
+
+.contact-info-item div p {
+    margin: 0;
+}
+
+.contact-image {
+    height: 160px;
+}
+
+@media screen and (max-width: 576px) {
+    .contact-info-section {
+            max-width: 100%;
     }
 }
 
