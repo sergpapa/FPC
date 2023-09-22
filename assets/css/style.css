@@ -324,11 +324,11 @@ footer {
     margin-bottom: 200px;
 }
 
-.contact-form {
+.contact {
     position: relative;
 }
 
-.signup-form {
+.contact-form {
     margin-top: 150px;
     font-weight: 400;
     color: rgba(231, 231, 231, 0.9);
@@ -340,6 +340,10 @@ footer {
     left: 50%;
     transform: translate(-50%, -50%);
 /* ------------- End of Code Snippet from Code from Manisha Basra */
+}
+
+.contact-form-darken {
+    background-color: rgba(33, 33, 33, 0.2);
     padding: 25px 40px 40px 40px;
 }
 
@@ -462,9 +466,3 @@ footer {
     width: 100%;
     margin-top: 50px;
 }
-
-.text-stroke {
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #212121;
-}
-
