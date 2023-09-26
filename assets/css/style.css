@@ -427,7 +427,21 @@ footer {
     .contact-info-section {
             max-width: 100%;
     }
+    .map {
+        width: 100%;
+        height: 400px;;
+    }
 }
+
+@media screen and (max-width: 768px) {
+
+    .map {
+        width: 100%;
+        height: 400px;
+        ;
+    }
+}
+
 
 /* ----------------------------------------------------------  General Styles */
 
