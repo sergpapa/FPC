@@ -158,12 +158,14 @@ footer {
 .reasons {
     color: #212121;
     text-align: justify;
+    padding: 10px;
 }
 
 /* ------------------------------------------------------------ Video Seciton */
 
 .free-runners {
     margin: 20px 0 30px 0;
+    color: rgba(231, 231, 231, 0.9);
 }
 
 /* ------------------------------------------------------------------ Reviews */
@@ -237,7 +239,7 @@ footer {
     margin-bottom: 10px;
 }
 
-.flip-card-back-text hr,p,strong {
+.flip-card-back-text hr,.flip-card-back-text p,.flip-card-back-text p strong {
     margin: 10px;
 }
 
