@@ -91,6 +91,13 @@ footer {
     overflow: hidden;
 }
 
+#plans-hero-image {
+    object-fit: cover;
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
 @media screen and (max-width: 600px) {
     #hero-image {
         object-position: 70% center;
@@ -316,7 +323,7 @@ footer {
 
 @media screen and (max-width: 576px) {
     .photo-grid {
-        column-count: 2;
+        column-count: 1;
     }
 }
 
