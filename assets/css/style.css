@@ -368,6 +368,7 @@ footer {
 
 .textarea-input {
     background: rgba(231, 231, 231, 0.3);
+    color: rgba(231, 231, 231, 0.9);
     border: 1px solid #e7e7e7;
     border-radius: 2px;
     width: 100%
@@ -390,7 +391,7 @@ footer {
 }
 
 @media screen and (max-width: 576px) {
-    .signup-form {
+    .contact-form {
             width: 100%;
     }
 }
