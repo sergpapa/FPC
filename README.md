@@ -30,10 +30,10 @@ Welcome to <a href="https://sergpapa.github.io/FPC/" target="_blank" rel="noopen
 
 The wireframes for FPC were produced in [Balsamiq](https://balsamiq.com). Inclued below, frames can be found for all distinct pages (home, plans, gallery, contact) in desktop, mobile and tablet view as they were initially envisioned.
 
-- ![Home Page](assets/images/FPC-home.png)
-- ![Plans Page](assets/images/FPC-plans.png)
-- ![Gallery Page](assets/images/FPC-gallery.png)
-- ![Contact Page](assets/images/FPC-contact.png)
+- Home Page ![Home Page](assets/images/FPC-home.png)
+- Plans Page ![Plans Page](assets/images/FPC-plans.png)
+- Gallery Page ![Gallery Page](assets/images/FPC-gallery.png)
+- Contact Page ![Contact Page](assets/images/FPC-contact.png)
 
 [Back to top](<#contents>)
 
