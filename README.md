@@ -47,7 +47,7 @@ The site consists of four pages with the main landing page being the [home page]
 
 - Typography 
 
-All thxt on the website is using a variation of the "Rubik" font family found on (Google Fonts - Rubik)[https://fonts.google.com/specimen/Rubik?query=rubik]
+All thxt on the website is using a variation of the "Rubik" font family found on [Google Fonts - Rubik](https://fonts.google.com/specimen/Rubik?query=rubik)
 
 - Colour palette
 
