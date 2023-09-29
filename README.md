@@ -80,10 +80,18 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
 Can be found on the top side of all pages of the websites. Makes navigation through pages easy and intuitive.
 The navigation manu is fully responsive to accomodate users of all decvces. In smaller devices the navigation menu appears as a dropdown menu instead placed in the header of each serarate page.
 
-- Navigation Menu Bigger screens
+  - Navigation Menu Bigger screens
+
+  ![Navigation Menu Bigger screens](assets/images/navbar-big.png)
+
+  - Navigation Menu Smaller screens
+
+  ![Navigation Menu Smaller screens](assets/images/navbar-small.png)
+
+- ### Hero Image
   
-![Navigation Menu Bigger screens](assets/images/navbar-big.png)
+A nice intriguilg parkour photo to immediately capture the attention of the visitor and provide a clear visual description of what the website is all about.
 
-- Navigation Menu Smaller screens
-
-![Navigation Menu Smaller screens](assets/images/navbar-small.png)
+  - Hero Image Home Page
+  
+  ![Hero Image Home Page](assets/images/hero-image-preview.png)
