@@ -36,3 +36,10 @@ The wireframes for FPC were produced in [Balsamiq](https://balsamiq.com). Inclue
 - !(Contact Page)[assets/images/FPC-contact.png]
 
 [Back to top](<#contents>)
+
+## Site Structure
+
+The site consists of four pages with the main landing page being the [home page](https://sergpapa.github.io/FPC/). Additionaly, there are the [plans page](https://sergpapa.github.io/FPC/plans.html), (gallery page)[https://sergpapa.github.io/FPC/gallery.html] and (contact page)[https://sergpapa.github.io/FPC/contact.html]. Other than that, there is also a (thank you page)[https://sergpapa.github.io/FPC/thank-you.html] that visitors are redirected to when submitting their details to be contacted and there are links to social media platforms in the footer element of each page.
+
+[Back to top](<#contents>)
+
