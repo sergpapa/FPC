@@ -67,3 +67,23 @@ The colors chosen for the website revolve around three colors: eerie black, plat
 ![FPC - Colour Pallete](assets/images/color-pallete.png)
 
 [Back to top](<#contents>)
+
+
+# Features
+
+The FPC wesite is designed to be simple to nacigate and ieay to use. It includes a variety of features commonly found in most websites such as a navigation bar, a photo gallery and a review section.
+
+## Existing features
+
+- ### Navigation Menu
+
+Can be found on the top side of all pages of the websites. Makes navigation through pages easy and intuitive.
+The navigation manu is fully responsive to accomodate users of all decvces. In smaller devices the navigation menu appears as a dropdown menu instead placed in the header of each serarate page.
+
+- Navigation Menu Bigger screens
+  
+![Navigation Menu Bigger screens](assets/images/navbar-big.png)
+
+- Navigation Menu Smaller screens
+
+![Navigation Menu Smaller screens](assets/images/navbar-small.png)
