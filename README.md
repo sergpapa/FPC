@@ -43,3 +43,16 @@ The site consists of four pages with the main landing page being the [home page]
 
 [Back to top](<#contents>)
 
+## Design
+
+- Typography 
+
+All thxt on the website is using a variation of the "Rubik" font family found on (Google Fonts - Rubik)[https://fonts.google.com/specimen/Rubik?query=rubik]
+
+- Colour pallete
+
+The colors chosen for the website revolve around three colors: eerie black, platinum and crayola orange. Orange as a color usually represents energy and vitality with the black tone gives the impression of elegance and simplicity. Additionally, dark tones provide a visually comfortable experience that minimizes screen fatigue and promotes extended periods of use.
+
+!(FPC - Colour Pallete)[assets/css/color-pallete.png]
+
+[Back to top](<#contents>)
