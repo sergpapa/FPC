@@ -77,7 +77,7 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
 - ### Navigation Menu
 
     Can be found on the top side of all pages of the websites. Makes navigation through pages easy and intuitive.
-    The navigation manu is fully responsive to accomodate users of all decvces. In smaller devices the navigation menu appears as a dropdown menu instead placed in the header of each serarate page.
+    The navigation manu is fully responsive to accomodate users of all decvces. In smaller devices the navigation menu appears as a dropdown menu instead placed in the header of each serarate page. The active page is always underlined and orange. Any other manu item reacts the same when hovered over with the mouse to increase usability.
 
   - Navigation Menu Bigger screens
 
@@ -117,4 +117,20 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
 
   - Free-runners of the world
 
-    ![Video Feature](assets/images/video-section.png)
+    ![Video Feature](assets/images/video-section.png)#
+
+- ### Reviews
+
+  The reviews section will give the visitors the opportunity to look at testimonials from previous clients. Reviews include a title, start rating, text desxription and name to provide full transparency and a layered review depth so that somebody could get an idea from a single glance bit can also explore people's experience in more detail if they are interested in learning more.
+  
+  - Reviews Section
+
+    ![Reviews Section](assets/images/reviews.png)
+
+- ### Footer
+  
+  The footer appears at the end of every page providing links to the FPC social media accounts for people that want to engage with the project more, connect and follow their latest news and updates. Social media links also change color when hovered over with the mouse to add clarity usability.
+  
+  - Footer
+
+    ![Footer Section](assets/images/footer.png)
