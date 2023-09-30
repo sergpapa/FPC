@@ -4,7 +4,7 @@
 
 FPC is a free-running and parkour center operating outdoors in Swansea, Wales. This README provides an overview of the FPC project and its website, which is targeted towards potential clients interested in learning more about FPC, its offered classes, and available subscription plans.
 
-Welcome to <a href="https://sergpapa.github.io/FPC/" target="_blank" rel="noopener">FPC</a>
+Welcome to [FPC](https://sergpapa.github.io/FPC/)
 
 ![FPC mockup](assets/images/FPC-mockup.jpg)
 
@@ -56,7 +56,7 @@ The site consists of four pages with the main landing page being the [home page]
 
 ## Design
 
-- Typography 
+- Typography
 
 All thxt on the website is using a variation of the "Rubik" font family found on [Google Fonts - Rubik](https://fonts.google.com/specimen/Rubik?query=rubik)
 
@@ -68,7 +68,6 @@ The colors chosen for the website revolve around three colors: eerie black, plat
 
 [Back to top](<#contents>)
 
-
 # Features
 
 The FPC wesite is designed to be simple to nacigate and ieay to use. It includes a variety of features commonly found in most websites such as a navigation bar, a photo gallery and a review section.
@@ -77,20 +76,20 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
 
 - ### Navigation Menu
 
-Can be found on the top side of all pages of the websites. Makes navigation through pages easy and intuitive.
-The navigation manu is fully responsive to accomodate users of all decvces. In smaller devices the navigation menu appears as a dropdown menu instead placed in the header of each serarate page.
+    Can be found on the top side of all pages of the websites. Makes navigation through pages easy and intuitive.
+    The navigation manu is fully responsive to accomodate users of all decvces. In smaller devices the navigation menu appears as a dropdown menu instead placed in the header of each serarate page.
 
   - Navigation Menu Bigger screens
 
-  ![Navigation Menu Bigger screens](assets/images/navbar-big.png)
+    ![Navigation Menu Bigger screens](assets/images/navbar-big.png)
 
   - Navigation Menu Smaller screens
 
-  ![Navigation Menu Smaller screens](assets/images/navbar-small.png)
+    ![Navigation Menu Smaller screens](assets/images/navbar-small.png)
 
 - ### Hero Image
   
-A nice intriguilg parkour photo to immediately capture the attention of the visitor and provide a clear visual description of what the website is all about.
+    A nice intriguilg parkour photo to immediately capture the attention of the visitor and provide a clear visual description of what the website is all about.
 
   - Hero Image Home Page
   
@@ -98,24 +97,24 @@ A nice intriguilg parkour photo to immediately capture the attention of the visi
 
 - ### Callout
   
-The callout feature, sitting just below the hero image, aims to grab the attention of the visitor, encourage them to engage with parkour and the FPC, explain the main theme of the website and provide an easy way to navigate to the contact page with a JOIN US TODAY button.
+    The callout feature, sitting just below the hero image, aims to grab the attention of the visitor, encourage them to engage with parkour and the FPC, explain the main theme of the website and provide an easy way to navigate to the contact page with a JOIN US TODAY button.
 
-- Callout
+  - Callout
 
     ![Callout](assets/images/callout.png)
 
 - ### Reasons to start parkour
-  
-This feature is all about explaining in a few words what are the benfits of parkour and free-running. This section educates the visitor and inspires them to join the FPC and subscribe to a plan. The reasons provided are accompanied by visual icons to make understanding more intuitive.
 
-- Reasons to start parkour
+    This feature is all about explaining in a few words what are the benfits of parkour and free-running. This section educates the visitor and inspires them to join the FPC and subscribe to a plan. The reasons provided are accompanied by visual icons to make understanding more intuitive.
+
+  - Reasons to start parkour
 
     ![Reasons](assets/images/reasons.png)
 
 - ### Free-running and Parkour Video
   
-In order to provide a more immersive expereince and inspire visitor's even more, this section embeds a short music video from YouTube, with a Creative Commons liscence, showcasing people exercising parkour. The video can be watched on the webisite in a windowed or full screen mode, or one can chose to be redirected to YouTube to watch it on a new page.
+    In order to provide a more immersive expereince and inspire visitor's even more, this section embeds a short music video from YouTube, with a Creative Commons liscence, showcasing people exercising parkour. The video can be watched on the webisite in a windowed or full screen mode, or one can chose to be redirected to YouTube to watch it on a new page.
 
-- Free-runners of the world
+  - Free-runners of the world
 
     ![Video Feature](assets/images/video-section.png)
