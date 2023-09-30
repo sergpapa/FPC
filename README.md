@@ -95,3 +95,27 @@ A nice intriguilg parkour photo to immediately capture the attention of the visi
   - Hero Image Home Page
   
   ![Hero Image Home Page](assets/images/hero-image-preview.png)
+
+- ### Callout
+  
+The callout feature, sitting just below the hero image, aims to grab the attention of the visitor, encourage them to engage with parkour and the FPC, explain the main theme of the website and provide an easy way to navigate to the contact page with a JOIN US TODAY button.
+
+- Callout
+
+    ![Callout](assets/images/callout.png)
+
+- ### Reasons to start parkour
+  
+This feature is all about explaining in a few words what are the benfits of parkour and free-running. This section educates the visitor and inspires them to join the FPC and subscribe to a plan. The reasons provided are accompanied by visual icons to make understanding more intuitive.
+
+- Reasons to start parkour
+
+    ![Reasons](assets/images/reasons.png)
+
+- ### Free-running and Parkour Video
+  
+In order to provide a more immersive expereince and inspire visitor's even more, this section embeds a short music video from YouTube, with a Creative Commons liscence, showcasing people exercising parkour. The video can be watched on the webisite in a windowed or full screen mode, or one can chose to be redirected to YouTube to watch it on a new page.
+
+- Free-runners of the world
+
+    ![Video Feature](assets/images/video-section.png)
