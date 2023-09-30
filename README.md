@@ -117,7 +117,7 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
 
   - Free-runners of the world
 
-    ![Video Feature](assets/images/video-section.png)#
+    ![Video Feature](assets/images/video-section.png)
 
 - ### Reviews
 
