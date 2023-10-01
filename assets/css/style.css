@@ -468,7 +468,7 @@ footer {
 
 .thank-you::before {
     content: "";
-    background-image: url("../images/training1.jpg");
+    background-image: url("../images/training1.webp");
     background-size: cover;
     overflow: hidden;
     background-repeat: no-repeat;

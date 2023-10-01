@@ -53,7 +53,7 @@ The FPC has been tesytd manually as well as with automated services like code va
 
 ## Browser Compatibility
 
-FPC has been tested in multiple browsers with no visible issues. Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge.Appearance, functionality and responsiveness were found consistent throughout on a range of device sizes and browsers.
+FPC has been tested in multiple browsers with no visible issues. Google Chrome, Mozilla Firefox, Safari, Microsoft Edge.Appearance, functionality and responsiveness were found consistent throughout on a range of device sizes and browsers.
 
 ## Testing User Stories
 
@@ -63,4 +63,13 @@ FPC has been tested in multiple browsers with no visible issues. Google Chrome, 
 
 ### Lighthouse
 
+The website has been tested using [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to test individual pages on:
 
+- Performance
+- Accessibility
+- Best Practices
+- SEO
+  
+  An example of the Lighthouse results in the FPC home page is shown below:
+
+  ![Lighthouse-home-page](assets/images/lighthouse-home-page.png)
