@@ -10,6 +10,27 @@ Welcome to [FPC](https://sergpapa.github.io/FPC/)
 
 # Contents
 
+- [FPC - Free-running and Parkour Centre](#fpc---free-running-and-parkour-centre)
+  - [Introduction](#introduction)
+- [Contents](#contents)
+- [User Experience (UX)](#user-experience-ux)
+  - [User Stroies](#user-stroies)
+  - [Wireframes](#wireframes)
+  - [Site Structure](#site-structure)
+  - [Design](#design)
+- [Features](#features)
+  - [Existing features](#existing-features)
+  - [Future Features](#future-features)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+    - [To deploy the project](#to-deploy-the-project)
+    - [To fork the repository on GitHub](#to-fork-the-repository-on-github)
+    - [To create a local clone of this project](#to-create-a-local-clone-of-this-project)
+- [Credits](#credits)
+  - [Content](#content)
+- [Acknowledgements](#acknowledgements)
+
 # User Experience (UX)
 
 ## User Stroies
@@ -134,3 +155,144 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
   - Footer
 
     ![Footer Section](assets/images/footer.png)
+
+- ### Classes
+  
+  In this section visitor's can find infromation conserning classes that are available at FPC, such as the days and times of each class. Classes are presented in flip cards, featuring an image on the front side and details on the back. This user-friendly design allows visitors to focus solely on the classes that pique their interest, eliminating the need to sift through excessive information and ensuring a streamlined browsing experience
+
+  - Classes
+
+    ![Classes-section](assets/images/classes-section.png)
+
+- ### Plans
+  
+  In this section users can find information about the available subscription plans at FPC. Each plan is enclosed in a bordered section, ensuring clarity and understandability. When hovered over, a box will light up, making for a better, more intuitive user experience. Just below the available plan boxes, there is a JOIN US TODAY button that a user can click and be redirected to the contact page after they got all the indromation they needed.
+  
+  - Plans
+
+    ![Plans-section](assets/images/plans-section.png)
+
+- ### Gallery
+  
+  The gallery has a dedicated page for itself as to avoid congestion of information. In the gallery page one can explore moments of parkour and free-running activities at the FPC classes and events, get a taste of what is like to be a part of the FPC group, how training looks like, parkour and free-running expercises as well as more cinematic shots featuring some of our top athletes. The gallery os organised as a photo-grid with no spacing between photos, to amplify the feeling of closeness and bonding the people at the FPC promote between their members.
+
+  - Gallery
+
+    ![Image-gallery](assets/images/image-gallery.png)
+
+- ### Contact form
+  
+  In this section, which is intended to be the end of the user journey so far, the user, after having gathered all the information needed around FPC, the classes and subscription plans available, images of how it is like to be a member of FPC and reviews from past customers, they can engage directly with the Centre to possibly set up a meeting or a call, ask more details around the schedule or the availble plans and any other issue they might have encountered. The form consists of a set of requitrd fields, their name, email address and phone number and a free textarea where they can make their inquiries or specify any issues or conserns.
+
+  - Contact Form
+  
+  ![Contact-form](assets/images/contact-form.png)
+
+- ### Contact Info
+  
+  Just below the contact form, there is a section including the FPC's contact information, such as phone number, email and address. There is also a map embeded for convenience and usability.
+  
+  - Contact Info
+
+  ![Conatct-info](assets/images/contact-info.png)
+
+- ### Thank you page
+  
+  Last but not least, when a user submits a contact form to be contacted by the FPC, they are redirected to a Thank You page, where they get a confirmation that their message has been delivered and are provided with a link to return to the home page, in case they want to coninue browsing the webpage.
+
+  - Thank you page
+  
+  ![Thank-you-page](assets/images/thank-you-page.png)
+
+[Back to top](<#contents>)
+
+## Future Features
+
+- Implementing an online subscription feature where users will be able to subscribe to a plan directly from the website.
+  - Create personalised profiles and add electronic payments
+- Add an events page to showcase all our hosted events and competitions along with a participation form.
+- Add a careers page where all job openings will be posted and people could contact FPC regarding joining the team.
+  
+[Back to top](<#contents>)
+
+# Technologies Used
+
+- [HTML5](https://html.spec.whatwg.org) - content and structure of the website
+- [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - styling
+- [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - styling frameworks
+- [Balsamiq](https://balsamiq.com) - wireframes
+- [GitHub](https://github.com) - Hosting and storing
+- [Codeanywhere](https://codeanywhere.com) - coding workspace
+- [GIMP](https://www.gimp.org) - image editing
+  
+[Back to top](<#contents>)
+
+# Testing
+
+Please follow this [link](/) to learn more about testing FPC.
+
+[Back to top](<#contents>)
+
+# Deployment
+
+### To deploy the project
+
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub-deployment](assets/images/deploy.png)
+
+  The live link to the Github repository can be found here - <>
+
+### To fork the repository on GitHub
+
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+
+1. Log in to **GitHub** and locate the [repository](https://github.com/sergpapa/FPC).
+2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+
+![GitHub-forking](assets/images/forking.png)
+
+### To create a local clone of this project
+
+The method from cloning a project from GitHub is below:
+
+1. Under the repository’s name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+
+![Cloning](assets/images/cloning.png)
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
+[Back to top](<#contents>)
+
+# Credits
+
+## Content
+
+- Font: [Google Fonts](https://fonts.google.com)
+- Icons: [Fontawesome](https://fontawesome.com)
+- Video: [YouTube](https://www.youtube.com)
+- Images [Shutterstock](https://www.shutterstock.com), [Unsplash](https://unsplash.com), [Free Images](https://free-images.com)
+- Logo: [Shopify logo maker (Hatchful)](https://www.shopify.com/tools/logo-maker)
+- Map: [Google Maps](https://www.google.com/maps)
+- Wireframes: [Balsamiq](https://balsamiq.com)
+- Flip cards: [w3schools](https://www.w3schools.com)
+- Absolute Centering: [Medium-Manisha Basra](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
+- Image Editing: [GIMP 2.10.34](https://www.gimp.org)
+- Color Palette: [Coolors](https://coolors.co)
+
+[Back to top](<#contents>)
+
+# Acknowledgements
+
+This website was developed as a part of my Portfolio 1 Project for the Web Application Developemnt Diploma at the [Code Institute](https://codeinstitute.net/). I want to express my gratitude to my mentor, [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), as well as the Slack community and everyone at the Code Institute for their valuable assistance and support throughout this project. It's important to note that FPC is a fictional company, with everything being entirely conceptual.
+
+Sergios Papastergiou
+2023
