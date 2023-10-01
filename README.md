@@ -28,7 +28,6 @@ Welcome to [FPC](https://sergpapa.github.io/FPC/)
     - [To fork the repository on GitHub](#to-fork-the-repository-on-github)
     - [To create a local clone of this project](#to-create-a-local-clone-of-this-project)
 - [Credits](#credits)
-  - [Content](#content)
 - [Acknowledgements](#acknowledgements)
 
 # User Experience (UX)
@@ -273,8 +272,6 @@ The method from cloning a project from GitHub is below:
 [Back to top](<#contents>)
 
 # Credits
-
-## Content
 
 - Font: [Google Fonts](https://fonts.google.com)
 - Icons: [Fontawesome](https://fontawesome.com)
