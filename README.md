@@ -24,9 +24,9 @@ Welcome to [FPC](https://sergpapa.github.io/FPC/)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Deployment](#deployment)
-    - [To deploy the project](#to-deploy-the-project)
-    - [To fork the repository on GitHub](#to-fork-the-repository-on-github)
-    - [To create a local clone of this project](#to-create-a-local-clone-of-this-project)
+  - [To deploy the project](#to-deploy-the-project)
+  - [To fork the repository on GitHub](#to-fork-the-repository-on-github)f
+  - [To create a local clone of this project](#to-create-a-local-clone-of-this-project)
 - [Credits](#credits)
 - [Acknowledgements](#acknowledgements)
 
@@ -245,7 +245,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
 ![GitHub-deployment](assets/images/deploy.png)
 
-  The live link to the Github repository can be found here - <>
+  The live link to the Github repository can be found here - [https://sergpapa.github.io/FPC/](https://sergpapa.github.io/FPC/)
 
 ### To fork the repository on GitHub
 

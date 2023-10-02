@@ -1,9 +1,23 @@
-# TESTING 
+# TESTING
 
 The FPC has been tesytd manually as well as with automated services like code validators and browser developer tools.
 
 # Contents
 
+- [TESTING](#testing)
+- [Contents](#contents)
+  - [Code Validators](#code-validators)
+    - [w3schools HTML Validator](#w3schools-html-validator)
+    - [w3schools CSS Validator](#w3schools-css-validator)
+  - [Responsiveness Test](#responsiveness-test)
+  - [Browser Compatibility](#browser-compatibility)
+  - [Testing User Stories](#testing-user-stories)
+  - [Known Bugs](#known-bugs)
+    - [Resolved](#resolved)
+    - [Un-resolved](#un-resolved)
+  - [Additional Testing](#additional-testing)
+    - [Lighthouse](#lighthouse)
+  
 ## Code Validators
 
 ### [w3schools HTML Validator](https://validator.w3.org)
@@ -27,7 +41,6 @@ The FPC has been tesytd manually as well as with automated services like code va
 - [Thank you page](https://sergpapa.github.io/FPC/thank-you.html)
   
   ![Thank-you-page-validator](assets/images/thank-you-page-validator.png)
-
 
 ### [w3schools CSS Validator](https://jigsaw.w3.org/css-validator/)
 
@@ -119,7 +132,8 @@ A console error was continuously thrown for a request of favicon.ico, although n
 ![favicon-bug](assets/images/favicon-bug.png)
 
 The following code found on [Stackoverflow](https://stackoverflow.com/questions/1321878/how-to-prevent-favicon-ico-requests) by [Sridhar Ratnakumar](https://stackoverflow.com/users/55246/sridhar-ratnakumar) and [Diego Perini](https://stackoverflow.com/users/445673/diego-perini) that seems to have resolved the issue:
-~~~
+
+~~~ html
 <link rel="icon" href="data:;base64,iVBORw0KGgo=">
 ~~~
 
