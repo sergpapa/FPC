@@ -1,26 +1,24 @@
-# TESTING
+# **TESTING**
 
 The FPC has been tesytd manually as well as with automated services like code validators and browser developer tools.
 
-# Contents
+# **Contents**
 
-- [TESTING](#testing)
-- [Contents](#contents)
-  - [Code Validators](#code-validators)
-    - [w3schools HTML Validator](#w3schools-html-validator)
-    - [w3schools CSS Validator](#w3schools-css-validator)
-  - [Responsiveness Test](#responsiveness-test)
-  - [Browser Compatibility](#browser-compatibility)
-  - [Testing User Stories](#testing-user-stories)
-  - [Known Bugs](#known-bugs)
-    - [Resolved](#resolved)
-    - [Un-resolved](#un-resolved)
-  - [Additional Testing](#additional-testing)
-    - [Lighthouse](#lighthouse)
+- [Code Validators](#code-validators)
+  - [w3schools HTML Validator](#w3schools-html-validator)
+  - [w3schools CSS Validator](#w3schools-css-validator)
+- [Responsiveness Test](#responsiveness-test)
+- [Browser Compatibility](#browser-compatibility)
+- [Testing User Stories](#testing-user-stories)
+- [Known Bugs](#known-bugs)
+  - [Resolved](#resolved)
+  - [Un-resolved](#un-resolved)
+- [Additional Testing](#additional-testing)
+  - [Lighthouse](#lighthouse)
   
-## Code Validators
+## **Code Validators**
 
-### [w3schools HTML Validator](https://validator.w3.org)
+### *[w3schools HTML Validator](https://validator.w3.org)*
 
 - [Home page](https://sergpapa.github.io/FPC/)
   
@@ -42,7 +40,7 @@ The FPC has been tesytd manually as well as with automated services like code va
   
   ![Thank-you-page-validator](assets/images/thank-you-page-validator.png)
 
-### [w3schools CSS Validator](https://jigsaw.w3.org/css-validator/)
+### *[w3schools CSS Validator](https://jigsaw.w3.org/css-validator/)*
 
 - [Home page](https://sergpapa.github.io/FPC/)
   
@@ -66,7 +64,7 @@ The FPC has been tesytd manually as well as with automated services like code va
 
 [Back to top](#contents)
 
-## Responsiveness Test
+## **Responsiveness Test**
 
 Responsiveness tests were carried out manually with a combination of device testing and [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/).
 
@@ -78,11 +76,11 @@ Responsiveness tests were carried out manually with a combination of device test
 
 [Back to top](#contents)
 
-## Browser Compatibility
+## **Browser Compatibility**
 
 FPC has been tested in multiple browsers with no visible issues. Google Chrome, Mozilla Firefox, Safari, Microsoft Edge.Appearance, functionality and responsiveness were found consistent throughout on a range of device sizes and browsers.
 
-## Testing User Stories
+## **Testing User Stories**
 
 - As a visitor, I want a navigation bar on each page, so that I can easily navigate through all the different pages - home, plans, gallery, and contact - of the website.
   - Navigation bar is present on all four pages.
@@ -123,9 +121,9 @@ FPC has been tested in multiple browsers with no visible issues. Google Chrome, 
 
 [Back to top](#contents)
 
-## Known Bugs
+## **Known Bugs**
 
-### Resolved
+### **Resolved**
 
 A console error was continuously thrown for a request of favicon.ico, although no such file existed in the repository.
 
@@ -137,7 +135,7 @@ The following code found on [Stackoverflow](https://stackoverflow.com/questions/
 <link rel="icon" href="data:;base64,iVBORw0KGgo=">
 ~~~
 
-### Un-resolved
+### **Un-resolved**
 
 Performance testing on the [Gallery Page](https://sergpapa.github.io/FPC/gallery.html) with [Google Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) showcases poor results varying from 37-60%.
 
@@ -147,9 +145,9 @@ Actions taken: All images were converted from .jpg or .jpeg to .webp files in or
 
 [Back to top](#contents)
 
-## Additional Testing
+## **Additional Testing**
 
-### Lighthouse
+### **Lighthouse**
 
 The website has been tested using [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) to test individual pages on:
 
