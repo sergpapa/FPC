@@ -14,7 +14,7 @@ FPC is a free-running and parkour center operating outdoors in Swansea, Wales. T
   - [Introduction](#introduction)
 - [Contents](#contents)
 - [User Experience (UX)](#user-experience-ux)
-  - [User Stroies](#user-stroies)
+  - [User Stroies](#user-stories)
   - [Wireframes](#wireframes)
   - [Site Structure](#site-structure)
   - [Design](#design)
