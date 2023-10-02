@@ -35,7 +35,7 @@ Welcome to [FPC](https://sergpapa.github.io/FPC/)
 ## User Stroies
 
 - As a visitor, I want a navigation bar on each page, so that I can easily navigate through all the different pages - home, plans, gallery, and contact - of the website.
-- As a visitor I want a home page with a hero-image, reasons to start parkour section, parkour video, and join now button, so that I can get a brief overview about the parkour centre and what it offers.
+- As a visitor I want a captivating, descriptive and easy to understand home page so that I can understand the purpose of the website and get a brief overview about the parkour centre and what it offers.
 - As a visitor I want a plans page where I can see different classes and subscription plans, so that I can make a decision on what class or subscription plan suits me.
 - As a visitor I want a gallery page where I can see images of the parkour centre and people performing parkour, so that I can visualize what training looks like and what to expect during classes.
 - As a visitor I want a contact page where I can get contact details of the centre and a contact form, so that I can reach out to the centre for more details or register my queries.
