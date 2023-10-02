@@ -147,3 +147,5 @@ The website has been tested using [Google Lighthouse](https://developer.chrome.c
   An example of the Lighthouse results in the FPC home page is shown below:
 
   ![Lighthouse-home-page](assets/images/lighthouse-home-page.png)
+
+Back to [README.md](./README.md#testing).
