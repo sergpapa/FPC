@@ -137,7 +137,7 @@ The following code found on [Stackoverflow](https://stackoverflow.com/questions/
 
 ### **Un-resolved**
 
-Performance testing on the [Gallery Page](https://sergpapa.github.io/FPC/gallery.html) with [Google Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) showcases poor results varying from 37-60%.
+Performance testing on the [Gallery Page](https://sergpapa.github.io/FPC/gallery.html) with [Google Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) showcases poor results varying from 37-72%.
 
 ![Gallery-Performance](assets/images/performance-bug.png)
 
