@@ -1,14 +1,14 @@
-# FPC - Free-running and Parkour Centre
+# **FPC - Free-running and Parkour Centre**
 
-## Introduction
+## **Introduction**
 
 FPC is a free-running and parkour center operating outdoors in Swansea, Wales. This README provides an overview of the FPC project and its website, which is targeted towards potential clients interested in learning more about FPC, its offered classes, and available subscription plans.
 
-Welcome to [FPC](https://sergpapa.github.io/FPC/)
+*Welcome to [FPC](https://sergpapa.github.io/FPC/)*
 
 ![FPC mockup](assets/images/FPC-mockup.jpg)
 
-# Contents
+# **Contents**
 
 - [FPC - Free-running and Parkour Centre](#fpc---free-running-and-parkour-centre)
   - [Introduction](#introduction)
@@ -30,9 +30,9 @@ Welcome to [FPC](https://sergpapa.github.io/FPC/)
 - [Credits](#credits)
 - [Acknowledgements](#acknowledgements)
 
-# User Experience (UX)
+# **User Experience (UX)**
 
-## User Stroies
+## **User Stories**
 
 - As a visitor, I want a navigation bar on each page, so that I can easily navigate through all the different pages - home, plans, gallery, and contact - of the website.
 - As a visitor I want a captivating, descriptive and easy to understand home page so that I can understand the purpose of the website and get a brief overview about the parkour centre and what it offers.
@@ -46,41 +46,41 @@ Welcome to [FPC](https://sergpapa.github.io/FPC/)
 
 [Back to top](<#contents>)
 
-## Wireframes
+## **Wireframes**
 
 The wireframes for FPC were produced in [Balsamiq](https://balsamiq.com). Inclued below, frames can be found for all distinct pages (home, plans, gallery, contact) in desktop, mobile and tablet view as they were initially envisioned.
 
-- Home Page:
+- *Home Page:*
 
  ![Home Page](assets/images/FPC-home.png)
 
-- Plans Page:
+- *Plans Page:*
   
 ![Plans Page](assets/images/FPC-plans.png)
   
-- Gallery Page:
+- *Gallery Page:*
   
 ![Gallery Page](assets/images/FPC-gallery.png)
 
-- Contact Page:
+- *Contact Page:*
 
 ![Contact Page](assets/images/FPC-contact.png)
 
 [Back to top](<#contents>)
 
-## Site Structure
+## **Site Structure**
 
 The site consists of four pages with the main landing page being the [home page](https://sergpapa.github.io/FPC/). Additionaly, there are the [plans page](https://sergpapa.github.io/FPC/plans.html), [gallery page](https://sergpapa.github.io/FPC/gallery.html) and [contact page](https://sergpapa.github.io/FPC/contact.html). Other than that, there is also a [thank you page](https://sergpapa.github.io/FPC/thank-you.html) that visitors are redirected to when submitting their details to be contacted and there are links to social media platforms in the footer element of each page.
 
 [Back to top](<#contents>)
 
-## Design
+## **Design**
 
-- Typography
+- *Typography*
 
 All thxt on the website is using a variation of the "Rubik" font family found on [Google Fonts - Rubik](https://fonts.google.com/specimen/Rubik?query=rubik)
 
-- Colour palette
+- *Colour palette*
 
 The colors chosen for the website revolve around three colors: eerie black, platinum and crayola orange. Orange as a color usually represents energy and vitality with the black tone gives the impression of elegance and simplicity. Additionally, dark tones provide a visually comfortable experience that minimizes screen fatigue and promotes extended periods of use.
 
@@ -88,106 +88,106 @@ The colors chosen for the website revolve around three colors: eerie black, plat
 
 [Back to top](<#contents>)
 
-# Features
+# **Features**
 
 The FPC wesite is designed to be simple to nacigate and ieay to use. It includes a variety of features commonly found in most websites such as a navigation bar, a photo gallery and a review section.
 
-## Existing features
+## **Existing features**
 
-- ### Navigation Menu
+- ### **Navigation Menu**
 
     Can be found on the top side of all pages of the websites. Makes navigation through pages easy and intuitive.
     The navigation manu is fully responsive to accomodate users of all decvces. In smaller devices the navigation menu appears as a dropdown menu instead placed in the header of each serarate page. The active page is always underlined and orange. Any other manu item reacts the same when hovered over with the mouse to increase usability.
 
-  - Navigation Menu Bigger screens
+  - *Navigation Menu Bigger screens*
 
     ![Navigation Menu Bigger screens](assets/images/navbar-big.png)
 
-  - Navigation Menu Smaller screens
+  - *Navigation Menu Smaller screens*
 
     ![Navigation Menu Smaller screens](assets/images/navbar-small.png)
 
-- ### Hero Image
+- ### **Hero Image**
   
     A nice intriguilg parkour photo to immediately capture the attention of the visitor and provide a clear visual description of what the website is all about.
 
-  - Hero Image Home Page
+  - *Hero Image Home Page*
   
   ![Hero Image Home Page](assets/images/hero-image-preview.png)
 
-- ### Callout
+- ### **Callout**
   
     The callout feature, sitting just below the hero image, aims to grab the attention of the visitor, encourage them to engage with parkour and the FPC, explain the main theme of the website and provide an easy way to navigate to the contact page with a JOIN US TODAY button.
 
-  - Callout
+  - *Callout*
 
     ![Callout](assets/images/callout.png)
 
-- ### Reasons to start parkour
+- ### **Reasons to start parkour**
 
     This feature is all about explaining in a few words what are the benfits of parkour and free-running. This section educates the visitor and inspires them to join the FPC and subscribe to a plan. The reasons provided are accompanied by visual icons to make understanding more intuitive.
 
-  - Reasons to start parkour
+  - *Reasons to start parkour*
 
     ![Reasons](assets/images/reasons.png)
 
-- ### Free-running and Parkour Video
+- ### **Free-running and Parkour Video**
   
     In order to provide a more immersive expereince and inspire visitor's even more, this section embeds a short music video from YouTube, with a Creative Commons liscence, showcasing people exercising parkour. The video can be watched on the webisite in a windowed or full screen mode, or one can chose to be redirected to YouTube to watch it on a new page.
 
-  - Free-runners of the world
+  - *Free-runners of the world*
 
     ![Video Feature](assets/images/video-section.png)
 
-- ### Reviews
+- ### **Reviews**
 
   The reviews section will give the visitors the opportunity to look at testimonials from previous clients. Reviews include a title, start rating, text desxription and name to provide full transparency and a layered review depth so that somebody could get an idea from a single glance bit can also explore people's experience in more detail if they are interested in learning more.
   
-  - Reviews Section
+  - *Reviews Section*
 
     ![Reviews Section](assets/images/reviews.png)
 
-- ### Footer
+- ### **Footer**
   
   The footer appears at the end of every page providing links to the FPC social media accounts for people that want to engage with the project more, connect and follow their latest news and updates. Social media links also change color when hovered over with the mouse to add clarity usability.
   
-  - Footer
+  - *Footer*
 
     ![Footer Section](assets/images/footer.png)
 
-- ### Classes
+- ### **Classes**
   
   In this section visitor's can find infromation conserning classes that are available at FPC, such as the days and times of each class. Classes are presented in flip cards, featuring an image on the front side and details on the back. This user-friendly design allows visitors to focus solely on the classes that pique their interest, eliminating the need to sift through excessive information and ensuring a streamlined browsing experience
 
-  - Classes
+  - *Classes*
 
     ![Classes-section](assets/images/classes-section.png)
 
-- ### Plans
+- ### **Plans**
   
   In this section users can find information about the available subscription plans at FPC. Each plan is enclosed in a bordered section, ensuring clarity and understandability. When hovered over, a box will light up, making for a better, more intuitive user experience. Just below the available plan boxes, there is a JOIN US TODAY button that a user can click and be redirected to the contact page after they got all the indromation they needed.
   
-  - Plans
+  - *Plans*
 
     ![Plans-section](assets/images/plans-section.png)
 
-- ### Gallery
+- ### **Gallery**
   
   The gallery has a dedicated page for itself as to avoid congestion of information. In the gallery page one can explore moments of parkour and free-running activities at the FPC classes and events, get a taste of what is like to be a part of the FPC group, how training looks like, parkour and free-running expercises as well as more cinematic shots featuring some of our top athletes. The gallery os organised as a photo-grid with no spacing between photos, to amplify the feeling of closeness and bonding the people at the FPC promote between their members.
 
-  - Gallery
+  - *Gallery*
 
     ![Image-gallery](assets/images/image-gallery.png)
 
-- ### Contact form
+- ### **Contact form**
   
   In this section, which is intended to be the end of the user journey so far, the user, after having gathered all the information needed around FPC, the classes and subscription plans available, images of how it is like to be a member of FPC and reviews from past customers, they can engage directly with the Centre to possibly set up a meeting or a call, ask more details around the schedule or the availble plans and any other issue they might have encountered. The form consists of a set of requitrd fields, their name, email address and phone number and a free textarea where they can make their inquiries or specify any issues or conserns.
 
-  - Contact Form
+  - *Contact Form*
   
   ![Contact-form](assets/images/contact-form.png)
 
-- ### Contact Info
+- ### **Contact Info**
   
   Just below the contact form, there is a section including the FPC's contact information, such as phone number, email and address. There is also a map embeded for convenience and usability.
   
@@ -195,17 +195,17 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
 
   ![Conatct-info](assets/images/contact-info.png)
 
-- ### Thank you page
+- ### **Thank you page**
   
   Last but not least, when a user submits a contact form to be contacted by the FPC, they are redirected to a Thank You page, where they get a confirmation that their message has been delivered and are provided with a link to return to the home page, in case they want to coninue browsing the webpage.
 
-  - Thank you page
+  - *Thank you page*
   
   ![Thank-you-page](assets/images/thank-you-page.png)
 
 [Back to top](<#contents>)
 
-## Future Features
+## **Future Features**
 
 - Implementing an online subscription feature where users will be able to subscribe to a plan directly from the website.
   - Create personalised profiles and add electronic payments
@@ -214,7 +214,7 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
   
 [Back to top](<#contents>)
 
-# Technologies Used
+# **Technologies Used**
 
 - [HTML5](https://html.spec.whatwg.org) - content and structure of the website
 - [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - styling
@@ -226,13 +226,13 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
   
 [Back to top](<#contents>)
 
-# Testing
+# **Testing**
 
 Please follow this [link](/) to learn more about testing FPC.
 
 [Back to top](<#contents>)
 
-# Deployment
+# **Deployment**
 
 ### To deploy the project
 
@@ -247,7 +247,7 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
   The live link to the Github repository can be found here - [https://sergpapa.github.io/FPC/](https://sergpapa.github.io/FPC/)
 
-### To fork the repository on GitHub
+### **To fork the repository on GitHub**
 
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
 
@@ -256,7 +256,7 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 
 ![GitHub-forking](assets/images/forking.png)
 
-### To create a local clone of this project
+### **To create a local clone of this project**
 
 The method from cloning a project from GitHub is below:
 
@@ -271,7 +271,7 @@ The method from cloning a project from GitHub is below:
 
 [Back to top](<#contents>)
 
-# Credits
+# **Credits**
 
 - Font: [Google Fonts](https://fonts.google.com)
 - Icons: [Fontawesome](https://fontawesome.com)
@@ -287,7 +287,7 @@ The method from cloning a project from GitHub is below:
 
 [Back to top](<#contents>)
 
-# Acknowledgements
+# **Acknowledgements**
 
 This website was developed as a part of my Portfolio 1 Project for the Web Application Developemnt Diploma at the [Code Institute](https://codeinstitute.net/). I want to express my gratitude to my mentor, [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), as well as the Slack community and everyone at the Code Institute for their valuable assistance and support throughout this project. It's important to note that FPC is a fictional company, with everything being entirely conceptual.
 
