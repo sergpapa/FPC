@@ -228,7 +228,7 @@ The FPC wesite is designed to be simple to nacigate and ieay to use. It includes
 
 # **Testing**
 
-Please follow this [link](/) to learn more about testing FPC.
+Please follow this [link](./TESTING.md) to learn more about testing FPC.
 
 [Back to top](<#contents>)
 
