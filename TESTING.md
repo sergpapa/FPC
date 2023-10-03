@@ -117,6 +117,8 @@ The following code found on [Stackoverflow](https://stackoverflow.com/questions/
 <link rel="icon" href="data:;base64,iVBORw0KGgo=">
 ~~~
 
+On a second iteration, [fpc-favicon](assets/images/logo-favicon.png) was added on the project. Decided to keep the bug fix as the advice above also served as a fix for people not wanting to add a **favicon** file.
+
 ### **Un-resolved**
 
 Performance testing on the [Gallery Page](https://sergpapa.github.io/FPC/gallery.html) with [Google Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) showcases poor results varying from 37-72%.
