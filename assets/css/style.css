@@ -78,11 +78,7 @@ footer {
     background: #DE7D48;
 }
 
-#footer-details {
-    padding: 20px;
-}
-
-#footer-details-logo {
+.footer-details {
     padding: 20px;
 }
 
@@ -96,14 +92,7 @@ footer {
 
 /* --------------------------------------------------------------- hero image */
 
-#hero-image {
-    object-fit: cover;
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-}
-
-#plans-hero-image {
+.hero-image {
     object-fit: cover;
     height: 600px;
     width: 100%;
@@ -111,7 +100,7 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-    #hero-image {
+    .hero-image {
         object-position: 70% center;
     }
 }
@@ -126,16 +115,6 @@ footer {
     margin: 7px;
     color: rgba(231, 231, 231, 0.9);
     font-weight: 400;
-}
-
-.callout {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.join-us {
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 .btn {
@@ -237,8 +216,6 @@ footer {
     -o-backface-visibiliy: hidden;
     /* Safari */
     backface-visibility: hidden;
-
-
 }
 
 .flip-card-front {
@@ -506,6 +483,11 @@ footer {
 }
 
 /* ----------------------------------------------------------  General Styles */
+
+.mtb-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
 .active {
     color: #DE7D48;

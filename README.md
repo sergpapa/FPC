@@ -24,9 +24,9 @@ FPC is a free-running and parkour center operating outdoors in Swansea, Wales. T
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Deployment](#deployment)
-  - [To deploy the project](#to-deploy-the-project)
-  - [To fork the repository on GitHub](#to-fork-the-repository-on-github)
-  - [To create a local clone of this project](#to-create-a-local-clone-of-this-project)
+  - [Project Deployment Instructions](#project-deployment-instructions)
+  - [Forking the repository on GitHub](#forking-the-repository-on-github)
+  - [Creating a local clone of this project](#creating-a-local-clone-of-this-project)
 - [Credits](#credits)
 - [Acknowledgements](#acknowledgements)
 
@@ -234,40 +234,40 @@ Please follow this [link](./TESTING.md) to learn more about testing FPC.
 
 # **Deployment**
 
-### To deploy the project
+### Project Deployment Instructions
 
-The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+This website was deployed on GitHub pages. Follow these steps to deploy a project:
 
-  1. In the GitHub repository, navigate to the **Settings** tab.
-  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
-  3. Under **Source**, select the branch to **master**, then click **save**.
-  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  1. Within the GitHub repository, access the **Settings** tab.
+  2. Inside the Settings menu, proceed to the **Pages** section located on the left-hand side.
+  3. In **Source**, select the **master** branch and click **save**.
+  4. After selecting the master branch, the page will automatically refresh, displaying a detailed ribbon indicating the successful deployment.
 
 ![GitHub-deployment](assets/images/deploy.png)
 
-  The live link to the Github repository can be found here - [https://sergpapa.github.io/FPC/](https://sergpapa.github.io/FPC/)
+  You can access the live link to the GitHub repository here - [https://sergpapa.github.io/FPC/](https://sergpapa.github.io/FPC/)
 
-### **To fork the repository on GitHub**
+### **Forking the Repository on GitHub**
 
-A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+To create a duplicate of the GitHub Repository, known as forking, you can view and make changes to this copy without impacting the original repository. To fork the repository, follow these steps:
 
-1. Log in to **GitHub** and locate the [repository](https://github.com/sergpapa/FPC).
-2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+1. Log in to **GitHub** and find the [repository](https://github.com/sergpapa/FPC).
+2. On the right-hand side of the page, next to the repository name, you will find a **Fork** button. Click this button to create a duplicate of the original repository in your GitHub account.
 
 ![GitHub-forking](assets/images/forking.png)
 
-### **To create a local clone of this project**
+### **Creating a Local Clone of this Project**
 
-The method from cloning a project from GitHub is below:
+To clone this project from GitHub to your local environment, follow these steps:
 
-1. Under the repository’s name, click on the **code** tab.
-2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+1. Below the repository's name, click on the **Code** tab.
+2. Under **Clone with HTTPS**, click on the clipboard icon to copy the URL.
 
 ![Cloning](assets/images/cloning.png)
-3. In your IDE of choice, open **Git Bash**.
-4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Type **git clone**, and then paste the URL copied from GitHub.
-6. Press **enter** and the local clone will be created.
+3. In your prefered IDE, open **Git Bash**.
+4. Change the current working directory to the location where you want to create the cloned directory.
+5. Type **git clone**, and then paste the copied URL from GitHub.
+6. Press **enter** to vcreate the local clone.
 
 [Back to top](<#contents>)
 
