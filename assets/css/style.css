@@ -100,7 +100,7 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-    .hero-image {
+    #hero-image {
         object-position: 70% center;
     }
 }
