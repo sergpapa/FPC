@@ -93,6 +93,7 @@ footer {
 /* --------------------------------------------------------------- hero image */
 
 .hero-image {
+    background: #212121;
     object-fit: cover;
     height: 600px;
     width: 100%;
@@ -411,6 +412,7 @@ footer {
 }
 
 .contact-image {
+    background: #9f9f9b;
     height: 160px;
 }
 
@@ -445,7 +447,7 @@ footer {
 
 .thank-you::before {
     content: "";
-    background-image: url("../images/training1.webp");
+    background-image: url("../images/training1.webp"), #212121;
     background-size: cover;
     overflow: hidden;
     background-repeat: no-repeat;
@@ -534,4 +536,18 @@ footer {
     background: rgba(231, 231, 231, 0.9);
     width: 100%;
     margin-top: 50px;
+}
+
+@media screen and (min-width: 2000px) {
+    body {
+        margin: 0 auto;
+        max-width: 80%;
+    }
+}
+
+@media screen and (min-width: 2500px) {
+    body {
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
