@@ -447,7 +447,8 @@ footer {
 
 .thank-you::before {
     content: "";
-    background-image: url("../images/training1.webp"), #212121;
+    background-image: url("../images/training1.webp");
+    background-color: #212121;
     background-size: cover;
     overflow: hidden;
     background-repeat: no-repeat;

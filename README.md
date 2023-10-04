@@ -245,7 +245,7 @@ This website was deployed on GitHub pages. Follow these steps to deploy a projec
 
 ![GitHub-deployment](assets/images/deploy.png)
 
-  You can access the live link to the GitHub repository here - [https://sergpapa.github.io/FPC/](https://sergpapa.github.io/FPC/)
+  You can access the live link to the GitHub deployed version - [https://sergpapa.github.io/FPC/](https://sergpapa.github.io/FPC/)
 
 ### **Forking the Repository on GitHub**
 

@@ -1,6 +1,6 @@
 # **TESTING**
 
-The FPC has been tesytd manually as well as with automated services like code validators and browser developer tools.
+The FPC has been tested manually as well as with automated services like code validators and browser developer tools.
 
 # **Contents**
 
